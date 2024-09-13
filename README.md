@@ -9,3 +9,4 @@ Grade: 100/100
 Assignment 3:
 This was a group project that included solving the household problem to find a list of equations which are used to simulate an economy. 
 Then introducing positive and negative shocks and plotting impulse response functions and providing economic interpretations for the results/
+Grade: 100/100
